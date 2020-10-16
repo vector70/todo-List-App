@@ -13,6 +13,8 @@ A very nice app to help you keep a track of your to-do items<br>
 <br>
 <br>
 
+## Features
+
 >Add an item to the list
 
 >Strike through the completed item
